@@ -1,0 +1,20 @@
+1."Praneeth Nairy",2005,50000
+2."Prajwal",2002,80000
+3."R Rahul",4573,100000
+4."Prithvi Palachandra",9628,200000
+5."Girish",1758,300000
+6."Vinay",2003,50000
+7."Gautham",5000,90000
+8."Suhas",3916,100000
+9."Karthik",8623,500000
+10."Arijit Singh",5664,7000000
+11."Arman Malik",4990,4000000
+12."Shreya Ghoshal",6987,3000000
+13."Vikram Batra",4532,8000000
+14."Narendra Modi",6785,300000000
+15."Rahul Gandhi",7856,10000000
+16."Siddaramayya",5674,6000000
+17."Ram",6534,590000
+18."Manpreet",4632,100000
+19."Prateek",4570,300000
+20."Rakesh",6711,500000
